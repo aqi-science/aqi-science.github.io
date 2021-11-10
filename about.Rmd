@@ -3,3 +3,6 @@ title: "About"
 ---
 
 ## Team Members
+- Felicia Cruz 
+- Steven Cognac 
+- Grace Lewin 
