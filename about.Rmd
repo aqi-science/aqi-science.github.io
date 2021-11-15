@@ -4,5 +4,5 @@ title: "About"
 
 ## Team Members
 - Felicia Cruz 
-- Steven Cognac 
+- [Steven Cognac](https://github.com/cognack)
 - Grace Lewin 
