@@ -6,4 +6,4 @@ title: "About"
 
 - [Felicia Cruz](https://github.com/fmcruz23)
 - [Steven Cognac](https://github.com/cognack)
-- Grace Lewin 
+- [Grace Lewin](https://github.com/gracelewin) 
