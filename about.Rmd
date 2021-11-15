@@ -3,6 +3,7 @@ title: "About"
 ---
 
 ## Team Members
-- Felicia Cruz 
-- Steven Cognac 
-- Grace Lewin 
+
+-   [Felicia Cruz](https://github.com/fmcruz23)
+-   Steven Cognac
+-   Grace Lewin
